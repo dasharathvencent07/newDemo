@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1841CB322565526A00E84624 /* DemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1841CB312565526A00E84624 /* DemoViewController.swift */; };
 		51868AC725654B650055680C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51868AC625654B650055680C /* AppDelegate.swift */; };
 		51868AC925654B650055680C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51868AC825654B650055680C /* SceneDelegate.swift */; };
 		51868ACB25654B650055680C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51868ACA25654B650055680C /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1841CB312565526A00E84624 /* DemoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoViewController.swift; sourceTree = "<group>"; };
 		51868AC325654B650055680C /* NewGithub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewGithub.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		51868AC625654B650055680C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		51868AC825654B650055680C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				51868AC625654B650055680C /* AppDelegate.swift */,
 				51868AC825654B650055680C /* SceneDelegate.swift */,
 				51868ACA25654B650055680C /* ViewController.swift */,
+				1841CB312565526A00E84624 /* DemoViewController.swift */,
 				51868ACC25654B650055680C /* Main.storyboard */,
 				51868ACF25654B690055680C /* Assets.xcassets */,
 				51868AD125654B690055680C /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				51868ACB25654B650055680C /* ViewController.swift in Sources */,
 				51868AC725654B650055680C /* AppDelegate.swift in Sources */,
 				51868AC925654B650055680C /* SceneDelegate.swift in Sources */,
+				1841CB322565526A00E84624 /* DemoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
