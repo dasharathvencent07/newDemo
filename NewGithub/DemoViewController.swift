@@ -13,7 +13,11 @@ class DemoViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        design()
         // Do any additional setup after loading the view.
+    }
+    func design() {
+        
     }
     
 ///hello world
